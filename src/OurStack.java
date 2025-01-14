@@ -5,7 +5,7 @@ import java.util.EmptyStackException;
  * 
  * @param <Type> The type of elements stored on the stack
  * 
- * @author Rick Mercer
+ * @author Rick Mercer and Luis Encinas
  */
 
 interface OurStack<Type> {
